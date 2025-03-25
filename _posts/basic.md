@@ -1,7 +1,7 @@
 ---
 title: 1️⃣基础操作
 author: Cyan
-date: 2025-03-26 14:10:00 +0800
+date: 2025-03-25 14:10:00 +0800
 categories: [Photoshop, Notes]
 tags: [Photoshop]
 render_with_liquid: false
