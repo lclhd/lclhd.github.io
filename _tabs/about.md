@@ -4,5 +4,12 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> 欢迎来到我的个人博客！这个站点主要用来记录我在学习 Adobe Photoshop 过程中的点滴笔记。
 {: .prompt-tip }
+
+除此之外，我还会分享自己进行自媒体创作的经验和感悟。内容可能涵盖选题策划、内容制作、平台运营等多个方面。希望能与同样热爱创作的朋友们交流学习，共同进步。
+
+你可以在这里找到：
+
+Photoshop学习笔记: 记录我在学习软件功能、技巧和各种后期处理方法时的总结。
+自媒体创作心得: 分享我在内容创作过程中的思考、遇到的问题以及解决方案。
