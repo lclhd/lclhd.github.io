@@ -1,7 +1,7 @@
 ---
 title: 如何又快又好地理解 Photoshop 操作原理
 author: DaVinci
-date: 2025-7-20
+date: 2025-7-19
 category: Jekyll
 layout: post
 ---
