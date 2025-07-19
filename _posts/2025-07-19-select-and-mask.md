@@ -6,7 +6,6 @@ category: Jekyll
 layout: post
 ---
 
-# Photoshop "选择并遮住" (Select and Mask) 功能详解
 
 Photoshop 中的 **“选择并遮住” (Select and Mask)** 是一个非常强大且必备的工具，专门用于创建精确、复杂的选区，尤其是在处理毛发、树叶、透明物体等棘手边缘时。
 
