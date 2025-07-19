@@ -13,5 +13,5 @@ permalink: /
 这个主题将样式定义从生成的[GitBook][2]网站中剥离出来，并为Jekyll提供了渲染模板。这样,Jekyll就可以直接将Markdown文档渲染成HTML。因此，整个网站可以直接部署到[Github Pages][1]，不必在每次源仓库内容变更后都重新生成并上传 HTML 文件包了。
 
 [1]: https://pages.github.com
-[2]:https://github.com/GitbookIO/gitbook
+[2]: https://github.com/sighingnow/jekyll-gitbook
 
