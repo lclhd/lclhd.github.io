@@ -7,9 +7,15 @@ layout: post
 ---
 
 
+这是一个非常基础且重要的概念。我们还是用一个通俗易懂的比喻来解释。
+
 想象一下你是一个传统的画家，面前有一张画板和一个调色盘。
 
-![画家调色板比喻](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mischpalette.jpg/640px-Mischpalette.jpg)
+> **【第一张图片描述】**
+>
+> 这里本应是一张**真实世界里画家调色板的照片**。
+>
+> 想象一个木制的、椭圆形的画板，上面挤着几坨不同颜色的颜料，比如红色、蓝色、黄色等。这代表着画家可以随时蘸取使用的多种颜色。
 
 ### 前景色 (Foreground Color) = 你画笔尖上的颜色
 
@@ -41,7 +47,13 @@ layout: post
 
 在 Photoshop 工具栏的下方，你会看到两个重叠的颜色方块，**上面的那个是前景色，下面的是背景色**。
 
-![Photoshop 颜色选择器](https://helpx.adobe.com/content/dam/help/zh-Hans/photoshop/using/choosing-colors/jcr_content/main/procedure-2/procedure-item-1/image.img.png)
+> **【第二张图片描述】**
+>
+> 这里是 **Photoshop 左侧工具栏底部的截图**。
+>
+> 它展示了两个重叠的颜色方块。上面那个方块（前景色）通常默认为**黑色**，下面稍微被遮挡的方块（背景色）默认为**白色**。
+> 在这两个方块的右上角，有一个小小的、**弯曲的双向箭头图标**，它的作用是交换前后景色。
+> 在这两个方块的左下角，还有两个更小的、一黑一白的方块图标，它的作用是**恢复默认的黑白颜色**。
 
 这里有三个超级实用的快捷键，你一定要记住：
 
