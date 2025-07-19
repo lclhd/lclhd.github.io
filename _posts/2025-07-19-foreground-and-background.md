@@ -9,7 +9,7 @@ layout: post
 
 想象一下你是一个传统的画家，面前有一张画板和一个调色盘。
 
-![画家调色板比喻](https://i.imgur.com/u7sA3Vd.png)
+![画家调色板比喻](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mischpalette.jpg/640px-Mischpalette.jpg)
 
 ### 前景色 (Foreground Color) = 你画笔尖上的颜色
 
@@ -41,7 +41,7 @@ layout: post
 
 在 Photoshop 工具栏的下方，你会看到两个重叠的颜色方块，**上面的那个是前景色，下面的是背景色**。
 
-![Photoshop 颜色选择器](https://i.imgur.com/vH1M9Xh.png)
+![Photoshop 颜色选择器](https://helpx.adobe.com/content/dam/help/zh-Hans/photoshop/using/choosing-colors/jcr_content/main/procedure-2/procedure-item-1/image.img.png)
 
 这里有三个超级实用的快捷键，你一定要记住：
 
