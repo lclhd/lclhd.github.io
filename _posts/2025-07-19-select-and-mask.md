@@ -1,5 +1,5 @@
 ---
-title: "选择并遮住" (Select and Mask) 功能详解
+title: "选择并遮住"功能详解
 author: DaVinci
 date: 2025-7-19
 category: Jekyll
