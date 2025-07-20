@@ -2,7 +2,7 @@
 title: 如何理解 Photoshop 操作原理
 author: DaVinci
 date: 2025-7-19
-category: Jekyll
+category: Photoshop
 layout: post
 ---
 

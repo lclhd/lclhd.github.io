@@ -2,7 +2,7 @@
 title: 前景色和背景色
 author: DaVinci
 date: 2025-07-19
-category: Jekyll
+category: Photoshop
 layout: post
 ---
 

@@ -2,7 +2,7 @@
 title: "选择并遮住"
 author: DaVinci
 date: 2025-7-19
-category: Jekyll
+category: Photoshop
 layout: post
 ---
 
