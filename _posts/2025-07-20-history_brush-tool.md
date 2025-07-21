@@ -22,7 +22,7 @@ layout: post
 #### 1. 在哪里找到它？
 它通常和“仿制图章工具”在同一个工具组里，快捷键是 **`Y`**。它还有一个“姐妹”工具叫“历史记录艺术画笔”，我们主要关注前者。
 
-![History Brush Tool Location](https://i.imgur.com/uI9d0sC.png)
+![History Brush Tool Location](https://www.photoshopessentials.com/images/basics/tools/history-brush-tool-icon-cs6.gif)
 
 #### 2. 基本使用步骤：
 1.  **打开“历史记录”面板**：这是关键。点击菜单栏的 `窗口 (Window)` > `历史记录 (History)`，将其调出。你会看到你对图像的每一步操作都被记录了下来。
@@ -31,8 +31,8 @@ layout: post
 
 3.  **设置历史记录源 (Set Source for History Brush)**：这是最核心的一步！在“历史记录”面板中，找到你想要“恢复”到的那个状态。比如，在调整为黑白照片之前，那个原始的彩色状态。然后，**点击该状态前方的小方框**，你会看到一个画笔图标出现。这就告诉 Photoshop：“我接下来要用历史记录画笔画的，就是这个状态下的像素。”
 
-    ![Setting History Source](https://i.imgur.com/9v4JqfG.png)
-    *(上图中，我们将历史记录源设置在了“打开”这一步，也就是最原始的彩色状态)*
+    ![Setting History Source](https://www.photoshopessentials.com/images/photo-effects/color-splash/history-panel-source.png)
+    *(上图中，我们将历史记录源设置在了最顶部的原始状态)*
 
 4.  **开始绘画**：现在，选择历史记录画笔工具，在你的黑白照片上涂抹。你会惊奇地发现，被你涂抹的区域，神奇地恢复了色彩！
 
@@ -74,7 +74,7 @@ layout: post
     4.  使用历史记录画笔，在你想要突出显示的主体上绘画（例如，新娘的捧花、恋人的嘴唇、孩子的眼睛）。
 * **创意点**：通过色彩与黑白的强烈对比，瞬间将观众的视线吸引到你想要表达的主体上，创造出极具艺术感和故事性的画面。
 
-    ![Selective Color Example](https://i.imgur.com/gK196W3.gif)
+    ![Selective Color Example GIF](https://i.ibb.co/L5hSgV5/Color-Splash-Effect.gif)
 
 #### 2. 精细皮肤润饰 (Subtle Skin Retouching)
 专业修图师常用此技巧来获得自然而不“假”的皮肤质感。
