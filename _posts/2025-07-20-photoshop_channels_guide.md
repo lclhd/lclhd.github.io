@@ -1,5 +1,5 @@
 ---
-title: 深入理解Photoshop的“心脏”：通道全解析
+title: Photoshop的“心脏”：通道全解析
 author: DaVinci
 date: 2025-07-20
 category: Photoshop
