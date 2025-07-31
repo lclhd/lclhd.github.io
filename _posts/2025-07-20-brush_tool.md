@@ -1,6 +1,6 @@
 ---
 title: 画笔工具
-author: Tao He
+author: DaVinci
 date: 2025-07-20
 category: Photoshop
 layout: post
