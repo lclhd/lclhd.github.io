@@ -1,5 +1,5 @@
 ---
-title: “阈值”：化繁为简的黑白艺术利器
+title: 阈值
 author: DaVinci
 date: 2025-07-25
 category: Photoshop

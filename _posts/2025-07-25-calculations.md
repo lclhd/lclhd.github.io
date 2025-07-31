@@ -1,5 +1,5 @@
 ---
-title: “计算”命令：化繁为简的蒙版与选区利器
+title: “计算”命令
 author: DaVinci
 date: 2025-07-25
 category: Photoshop
