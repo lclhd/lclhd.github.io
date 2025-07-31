@@ -1,5 +1,5 @@
 ---
-title: 画笔工具：从入门到精通终极指南 🚀
+title: 画笔工具
 author: Tao He
 date: 2025-07-20
 category: Photoshop

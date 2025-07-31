@@ -1,5 +1,5 @@
 ---
-title: 深入解析Photoshop混合模式：从基础概念到专业技巧
+title: 混合模式
 author: DaVinci
 date: 2025-07-20
 category: Photoshop
