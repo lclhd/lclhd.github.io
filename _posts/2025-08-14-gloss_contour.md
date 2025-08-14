@@ -1,7 +1,7 @@
 ---
 title: 光泽等高线
 author: DaVinci
-date: 2025-08-014
+date: 2025-08-14
 category: Photoshop
 layout: post
 ---
